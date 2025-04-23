@@ -1,9 +1,18 @@
 <h1>Hi, I'm Powella! <br/><a href="https://github.com/Powellaebosa">Network Engineer</a>, <a href="https://www.linkedin.com/in/powella-s-ebosa-m-sc-m-ed-a79473108//">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Network Engineering Projects:</h2> - <b>Cisco IOS Upgrade on Router 0</b>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+✅ Identified a newer IOS version from Cisco’s database (simulated environment).
+✅ Verified Router0’s hardware compatibility (DRAM/Flash) for the upgrade.
+✅ Downloaded the new IOS image and placed it on a local server in the Packet Tracer topology.
+✅ Confirmed Router0 had enough Flash memory to store the new IOS.
+✅ Used FTP protocol to securely transfer the IOS image from the server to Router0.
+✅ Performed an MD5 hash check to ensure file integrity and prevent corruption.
+✅ Configured the boot system command to make the router boot from the new IOS version.
+✅ Scheduled the upgrade after hours (best practice) to reduce downtime.
+✅ Reloaded the router to complete the upgrade and verified successful boot. - https://youtu.be/kzUrZd6Sh2Q?si=PVd1g-NcMK_68jfx
+    
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
