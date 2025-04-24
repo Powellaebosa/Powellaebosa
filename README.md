@@ -14,8 +14,11 @@
 ✅ Reloaded the router to complete the upgrade and verified successful boot. - https://youtu.be/kzUrZd6Sh2Q?si=PVd1g-NcMK_68jfx
 
 -<b>Implementing and Migrating DHCP Services in a Cisco Network Topology (Cisco Packet Tracer Lab)</b>
--performed the fundamentals of DHCP in both router-based and server-based deployments, 
-how to assign dynamic IPs, and simulate real-world setups where routers obtain external IPs from ISPs. https://www.youtube.com/watch?v=y_EMHCMaFpQ&t=133s
+
+✅performed the fundamentals of DHCP in both router-based and server-based deployments 
+✅how to assign dynamic IPs
+✅ And simulate real-world setups where routers obtain external IPs from ISPs. https://www.youtube.com/watch?v=y_EMHCMaFpQ&t=133s
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
