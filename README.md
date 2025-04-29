@@ -10,9 +10,9 @@
 
 -<b> Cisco IOS Upgrade</b>
 
-- <b>App Development: Java-Based Recipe Management System</b>
+-<b>App Development: Java-Based Recipe Management System</b>
 
-✅https://github.com/Powellaebosa/App-Development-Java-Based-Recipe-Management-System
+- https://github.com/Powellaebosa/App-Development-Java-Based-Recipe-Management-System
   
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
