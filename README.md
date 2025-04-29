@@ -1,11 +1,12 @@
 <h1>Hi, I'm Powella! <br/><a href="https://github.com/Powellaebosa">Network Engineer</a>, <a href="https://www.linkedin.com/in/powella-s-ebosa-m-sc-m-ed-a79473108//">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Network Engineering Projects:</h2> - <b>Cisco IOS Upgrade on Router 0</b>
+<h2>👨‍💻 Network Engineering Projects:</h2> 
 
 -<b>Implementing and Migrating DHCP Services in a Cisco Network Topology</b>
-* performed the fundamentals of DHCP in both router-based and server-based deployments 
-*how to assign dynamic IPs
-*And simulate real-world setups where routers obtain external IPs from ISPs. https://www.youtube.com/watch?v=y_EMHCMaFpQ&t=133s
+
+- performed the fundamentals of DHCP in both router-based and server-based deployments 
+- how to assign dynamic IPs
+- And simulate real-world setups where routers obtain external IPs from ISPs. https://www.youtube.com/watch?v=y_EMHCMaFpQ&t=133s
 
 -<b> Cisco IOS Upgrade</b>
 
