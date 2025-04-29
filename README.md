@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Java App Projects:</h2>
   
--<b>App Development: Java-Based Recipe Management System</b>
+-<b>App Development: Recipe Management System</b>
 
 - https://github.com/Powellaebosa/App-Development-Java-Based-Recipe-Management-System
   
