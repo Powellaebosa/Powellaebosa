@@ -3,14 +3,13 @@
 <h2>👨‍💻 Network Engineering Projects:</h2> 
 
 -<b>Implementing and Migrating DHCP Services in a Cisco Network Topology</b>
-
-- performed the fundamentals of DHCP in both router-based and server-based deployments 
-- how to assign dynamic IPs
-- And simulate real-world setups where routers obtain external IPs from ISPs. https://www.youtube.com/watch?v=y_EMHCMaFpQ&t=133s
-
+- https://github.com/Powellaebosa/Implementing-and-Migrating-DHCP-Services-in-a-Cisco-Network-Topology/tree/main
+  
 -<b> Cisco IOS Upgrade</b>  
 - https://github.com/Powellaebosa/Cisco-IOS-Upgrade/tree/main
 
+<h2>👨‍💻 Java App Projects:</h2>
+  
 -<b>App Development: Java-Based Recipe Management System</b>
 
 - https://github.com/Powellaebosa/App-Development-Java-Based-Recipe-Management-System
