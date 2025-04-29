@@ -13,8 +13,15 @@
 -<b>App Development: Recipe Management System</b>
 
 - https://github.com/Powellaebosa/App-Development-Java-Based-Recipe-Management-System
+
+<h2>👨‍💻 Database Projects:</h2>
+-Healthcare Relational Database Management System (RDBMS)
+
+  - https://github.com/Powellaebosa/Healthcare-Relational-Database-Management-System/tree/main
+  - 
   
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
