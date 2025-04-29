@@ -24,7 +24,7 @@
 
 - https://github.com/Powellaebosa/App-Development-Java-Based-Recipe-Management-System
 
-<h2>👨‍💻 Database Projects:</h2>
+<h2>👨‍💻 Data Analysis & Database Projects:</h2>
 -Healthcare Relational Database Management System (RDBMS)
 
   - https://github.com/Powellaebosa/Healthcare-Relational-Database-Management-System/tree/main
