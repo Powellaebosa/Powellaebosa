@@ -12,6 +12,9 @@
 
 - https://github.com/Powellaebosa/Configure-SSH-Disable-Telnet-on-Switches/tree/main
 
+-VLANs, Access Ports & Trunking to Router Configuration
+- https://github.com/Powellaebosa/VLANs-Access-Ports-Trunking-to-Router-Configuration/tree/main
+
 <h2>👨‍💻 Java App Projects:</h2>
   
 -<b>App Development: Recipe Management System</b>
