@@ -21,6 +21,9 @@
 -Configuring Wireless Phones
 - https://github.com/Powellaebosa/Configuring-Wireless-Phones/tree/main
 
+-Router LAN Configuration
+- https://github.com/Powellaebosa/Router-LAN-Configuration/tree/main
+
 <h2>👨‍💻 Coding Projects:</h2>
   
 -<b>App Development: Recipe Management System</b>
