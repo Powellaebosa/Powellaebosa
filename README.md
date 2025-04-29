@@ -38,7 +38,7 @@
 
   - https://github.com/Powellaebosa/Healthcare-Relational-Database-Management-System/tree/main
 
-<h2>👨‍💻 Project Management</h2>
+<h2>👨‍💻 Project Management Projects</h2>
 
   - 
 <h2>🛡️Certifications</h2>
