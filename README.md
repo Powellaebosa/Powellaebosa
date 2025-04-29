@@ -18,7 +18,7 @@
 -Troubleshooting Checks for RIP and Route
 - https://github.com/Powellaebosa/Troubleshooting-Checks-for-RIP-and-Route/tree/main
 
-<h2>👨‍💻 Java App Projects:</h2>
+<h2>👨‍💻 Coding Projects:</h2>
   
 -<b>App Development: Recipe Management System</b>
 
