@@ -37,6 +37,9 @@
 -Healthcare Relational Database Management System (RDBMS)
 
   - https://github.com/Powellaebosa/Healthcare-Relational-Database-Management-System/tree/main
+
+<h2>👨‍💻 Project Management</h2>
+
   - 
   
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
