@@ -8,6 +8,10 @@
 -<b>Cisco IOS Upgrade</b>  
 - https://github.com/Powellaebosa/Cisco-IOS-Upgrade/tree/main
 
+-<b>Configure SSH & Disable Telnet on Switches</b>
+
+- https://github.com/Powellaebosa/Configure-SSH-Disable-Telnet-on-Switches/tree/main
+
 <h2>👨‍💻 Java App Projects:</h2>
   
 -<b>App Development: Recipe Management System</b>
