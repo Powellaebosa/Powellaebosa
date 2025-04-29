@@ -18,6 +18,9 @@
 -Troubleshooting Checks for RIP and Route
 - https://github.com/Powellaebosa/Troubleshooting-Checks-for-RIP-and-Route/tree/main
 
+-Configuring Wireless Phones
+- https://github.com/Powellaebosa/Configuring-Wireless-Phones/tree/main
+
 <h2>👨‍💻 Coding Projects:</h2>
   
 -<b>App Development: Recipe Management System</b>
