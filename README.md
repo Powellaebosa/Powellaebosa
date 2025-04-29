@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Network Engineering Projects:</h2> - <b>Cisco IOS Upgrade on Router 0</b>
 
--<b>Implementing and Migrating DHCP Services in a Cisco Network Topology (Cisco Packet Tracer Lab)</b>
-✅performed the fundamentals of DHCP in both router-based and server-based deployments 
-✅how to assign dynamic IPs
-✅ And simulate real-world setups where routers obtain external IPs from ISPs. https://www.youtube.com/watch?v=y_EMHCMaFpQ&t=133s
+-<b>Implementing and Migrating DHCP Services in a Cisco Network Topology</b>
+* performed the fundamentals of DHCP in both router-based and server-based deployments 
+*how to assign dynamic IPs
+*And simulate real-world setups where routers obtain external IPs from ISPs. https://www.youtube.com/watch?v=y_EMHCMaFpQ&t=133s
+
+-<b> Cisco IOS Upgrade</b>
 
 - <b>App Development: Java-Based Recipe Management System</b>
 
