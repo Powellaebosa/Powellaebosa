@@ -8,7 +8,8 @@
 - how to assign dynamic IPs
 - And simulate real-world setups where routers obtain external IPs from ISPs. https://www.youtube.com/watch?v=y_EMHCMaFpQ&t=133s
 
--<b> Cisco IOS Upgrade</b>
+-<b> Cisco IOS Upgrade</b>  
+- https://github.com/Powellaebosa/Cisco-IOS-Upgrade/tree/main
 
 -<b>App Development: Java-Based Recipe Management System</b>
 
