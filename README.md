@@ -24,6 +24,9 @@
 -Router LAN Configuration
 - https://github.com/Powellaebosa/Router-LAN-Configuration/tree/main
 
+-Configure and Connect VoIP Phones
+- https://github.com/Powellaebosa/Configure-and-Connect-VoIP-Phones/tree/main
+
 <h2>👨‍💻 Coding Projects:</h2>
   
 -<b>App Development: Recipe Management System</b>
