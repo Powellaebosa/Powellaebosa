@@ -41,7 +41,8 @@
 <h2>👨‍💻 Project Management</h2>
 
   - 
-
+<h2>🛡️Certifications</h2>
+-<b>Full Stack Network Associate</b>
 
 
 
