@@ -37,10 +37,12 @@
 -Healthcare Relational Database Management System (RDBMS)
 
   - https://github.com/Powellaebosa/Healthcare-Relational-Database-Management-System/tree/main
+  
 
 <h2>👨‍💻 Project Management Projects</h2>
- - https://github.com/Powellaebosa/Operating-System-Development-Project-Microsoft-Project-Professional-/tree/main
-  - 
+ - Operating System Development Project (Gantt Chart Timeline) – Microsoft Project Professional
+ 
+- https://github.com/Powellaebosa/Operating-System-Development-Project-Microsoft-Project-Professional-/tree/main
 <h2>🛡️Certifications</h2>
 -<b>Full Stack Network Associate</b>
 
