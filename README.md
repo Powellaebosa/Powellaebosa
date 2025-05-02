@@ -4,6 +4,9 @@
 
 -<b>Implementing and Migrating DHCP Services in a Cisco Network Topology</b>
 - https://github.com/Powellaebosa/Implementing-and-Migrating-DHCP-Services-in-a-Cisco-Network-Topology/tree/main
+
+-<b>VLANs, Inter-VLAN Routing, DHCP, SSH, NAT, VoIP & Wireless Config</b>
+- https://github.com/Powellaebosa/VLANs-Inter-VLAN-Routing-DHCP-SSH-NAT-VoIP-Wireless-Config/tree/main
   
 -<b>Cisco IOS Upgrade</b>  
 - https://github.com/Powellaebosa/Cisco-IOS-Upgrade/tree/main
