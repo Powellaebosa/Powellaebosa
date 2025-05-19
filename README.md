@@ -5,6 +5,9 @@
 -<b>Implementing and Migrating DHCP Services in a Cisco Network Topology</b>
 - https://github.com/Powellaebosa/Implementing-and-Migrating-DHCP-Services-in-a-Cisco-Network-Topology/tree/main
 
+-<b>Cisco Port Security Configuration</b>
+- (https://github.com/Powellaebosa/Cisco-Port-Security-Configuration/tree/main)
+  
 -<b>VLANs, Inter-VLAN Routing, DHCP, SSH, NAT, VoIP & Wireless Config</b>
 - https://github.com/Powellaebosa/VLANs-Inter-VLAN-Routing-DHCP-SSH-NAT-VoIP-Wireless-Config/tree/main
   
