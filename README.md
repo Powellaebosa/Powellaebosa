@@ -1,9 +1,12 @@
 <h1>Hi, I'm Powella! <br/><a href="https://github.com/Powellaebosa">Network Engineer</a>, <a href="https://www.linkedin.com/in/powella-s-ebosa-m-sc-m-ed-a79473108//">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Network Engineering Projects:</h2> 
+<h2>👨‍💻 Network Engineering and Security Projects:</h2> 
 
 -<b>Implementing and Migrating DHCP Services in a Cisco Network Topology</b>
 - https://github.com/Powellaebosa/Implementing-and-Migrating-DHCP-Services-in-a-Cisco-Network-Topology/tree/main
+
+-<b>DHCP Relay Agent Configuration</b>
+- https://github.com/Powellaebosa/DHCP-Relay-Agent-Configuration/tree/main
   
 -<b>Single Area OSPF Configuration</b>
 - https://github.com/Powellaebosa/Single-Area-OSPF-Configuration-
