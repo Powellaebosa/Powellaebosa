@@ -7,6 +7,9 @@
 
 -<b>DHCP Relay Agent Configuration</b>
 - https://github.com/Powellaebosa/DHCP-Relay-Agent-Configuration/tree/main
+
+-<b>SSH Configuration on Cisco Device</b>
+- https://github.com/Powellaebosa/SSH-Configuration-on-Cisco-IOS-Device/tree/main
   
 -<b>Single Area OSPF Configuration</b>
 - https://github.com/Powellaebosa/Single-Area-OSPF-Configuration-
