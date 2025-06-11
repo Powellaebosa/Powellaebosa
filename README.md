@@ -4,6 +4,9 @@
 
 -<b>Implementing and Migrating DHCP Services in a Cisco Network Topology</b>
 - https://github.com/Powellaebosa/Implementing-and-Migrating-DHCP-Services-in-a-Cisco-Network-Topology/tree/main
+  
+-<b>Single Area OSPF Configuration</b>
+- https://github.com/Powellaebosa/Single-Area-OSPF-Configuration-
 
 -<b>Cisco Port Security Configuration</b>
 - (https://github.com/Powellaebosa/Cisco-Port-Security-Configuration/tree/main)
