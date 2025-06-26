@@ -69,16 +69,15 @@
 - https://github.com/Powellaebosa/Operating-System-Development-Project-Microsoft-Project-Professional-/tree/main
 <h2>🛡️Certifications</h2>
 -<b>Full Stack Network Associate</b>
+-<b>Certified Lenovo Repair Technician</b>
+-<b>Certified Dell Repair Technician</b>
 
 
 
 
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
