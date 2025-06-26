@@ -44,6 +44,12 @@
 
 -Configure and Connect VoIP Phones
 - https://github.com/Powellaebosa/Configure-and-Connect-VoIP-Phones/tree/main
+  
+
+<h2>👨‍💻Computer Repair and Troubleshooting Projects</h2>
+-Resolved Wi-Fi Driver Issue on PC
+
+- https://github.com/Powellaebosa/Resolved-Wi-Fi-Driver-Issue-on-PC
 
 <h2>👨‍💻 Coding Projects:</h2>
   
